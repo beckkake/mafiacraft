@@ -486,6 +486,11 @@ file = "mods/InvMove-1.21-0.8.8-NeoForge.jar"
 hash = "fb71dc14ff04bfd294c9c53ff6fdc643c17b1d7004d0cd912f3c2a4eb9414301"
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "8adf4d915ba934600a112113b9bfcb36a571d14e52872c6c93c015351bb1bf34"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "e6448befb831607b6f7522250c5f6f2bfd57c80b614467286465b248258c3939"
 metafile = true
