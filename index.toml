@@ -242,30 +242,6 @@ file = "config/defaultoptions/extra/config/visuality/particle_emitters/entity_hi
 hash = "db1fe2d772c0ed136c2d1da0c315bc50ba9760032a60253be6f37ce1d7e38ead"
 
 [[files]]
-file = "config/defaultoptions/extra/config/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
-
-[[files]]
-file = "config/defaultoptions/extra/config/xaerominimap.txt"
-hash = "83135065e7eb9129f251c9af2267497dbda6488af34a5dbbd3325255632fb61d"
-
-[[files]]
-file = "config/defaultoptions/extra/config/xaerominimap_entities.json"
-hash = "cd69d198136600024c570149621c9147b6da9b29bd5ae779e7a126a6ce7aec83"
-
-[[files]]
-file = "config/defaultoptions/extra/config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/defaultoptions/extra/config/xaeroworldmap-common.txt"
-hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
-
-[[files]]
-file = "config/defaultoptions/extra/config/xaeroworldmap.txt"
-hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
-
-[[files]]
 file = "config/defaultoptions/extra/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
 hash = "8d0e5214a6b25c0109f47327dc75533d5eaf8e14f2b92878c91e4034454c8ae8"
 
@@ -831,14 +807,4 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "23e15ef934b3820a9bbc9cc5f417a8a4a140874d1482c6128642b5d79fe40401"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "34f4cf50c5c1780ceb558de500bddb313e1e09dac4fc5f8f2ef937ea1d682820"
 metafile = true
