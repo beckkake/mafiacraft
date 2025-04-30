@@ -430,6 +430,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "f7b6125de1e267744e311629ac0e683717288ed0d94fa9de78d5126c82e04a4b"
 
 [[files]]
+file = "config/incontrol/spawn.json"
+hash = "f8def06ca61b53cb207c3170e34375856b5ac384be5fb0a7c6255d43ad10f826"
+
+[[files]]
 file = "config/invmove.json"
 hash = "911fa605af5c2ee23b6fd65e5fe5daa23b6369b3ac16a78e35578776e2e9c04e"
 

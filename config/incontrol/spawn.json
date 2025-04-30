@@ -1,0 +1,17 @@
+[
+    {
+      "mob": ["minecraft:villager", "cobblemon:pokemon"],
+      "result": "default",
+      "when": "onjoin"
+    },
+    {
+      "hostile": true,
+      "result": "default",
+      "when": "onjoin"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "result": "deny",
+      "when": "onjoin"
+    }
+  ]
