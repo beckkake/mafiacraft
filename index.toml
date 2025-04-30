@@ -780,6 +780,11 @@ hash = "b16ee8ff10576cf6ef43fd6a2828463faf96de88e6409f9ee6b3dd31645d282d"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extras.pw.toml"
+hash = "02b29315d2ec0d055d0ebba1f36879da5bcacc823328a668c7e7340fb2cb03d4"
+metafile = true
+
+[[files]]
 file = "mods/sodium-leaf-culling.pw.toml"
 hash = "8810e0b64cc1d91c5654caa90bae3bb7422d287bec80f8b70e86abd3902a5b21"
 metafile = true
