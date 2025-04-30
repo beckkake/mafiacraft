@@ -516,6 +516,11 @@ hash = "2e6f85a75b9be427b1c36c6fb13bd1b883221e457434f04751171a62fcedb189"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "574807cedb57ba6360060d6bf4a359cea9d00bf8700caee866d48ab949005b89"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7d3beb01c8698cfc8587666a2f27dd95423d3f3a881a4f706fe162c751ea3c9d"
 metafile = true
@@ -630,7 +635,7 @@ hash = "f92da3a21bdc52e16c31ee90f4c40fd47b2f0a15af020e62cb00639f41356fcd"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "574c830e4a6607511057429ddac86f63f73434004b0e7eb6b1f162404eb98f22"
+hash = "5c58b5f90359fa2516855ddea5406998e7671889b4c89c46fec1f142e79357a3"
 metafile = true
 
 [[files]]
@@ -735,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "139e3bafd7b9cb99e12ec7a572eafeb11f730bbb118041e668c1fd8f30142c81"
+hash = "82a5c30ed91d272ee1895376e0d2cf57504b3d9db4aba6547e19eaa344861ada"
 metafile = true
 
 [[files]]
