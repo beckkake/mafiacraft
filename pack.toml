@@ -1,0 +1,13 @@
+name = "Bimbo Mafiacraft"
+author = "beckkake"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cf947d476010f4f02854f387440ba0958313865bbc95dd818cb40b7af8f052dc"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.113"

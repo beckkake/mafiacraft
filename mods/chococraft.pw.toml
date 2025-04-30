@@ -1,0 +1,13 @@
+name = "ChocoCraft"
+filename = "chococraft-1.21.1-neoforge-0.11.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c17c91bbd75f15e14e76e8f36fd554297fcea059"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6168957
+project-id = 225280

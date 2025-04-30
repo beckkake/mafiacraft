@@ -1,0 +1,13 @@
+name = "Lithium (Fabric/NeoForge)"
+filename = "lithium-neoforge-0.14.7+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6b55fed1004716f81d2929a26c086d0d06f6375"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6108105
+project-id = 360438
