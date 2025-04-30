@@ -1,6 +1,6 @@
 name = "LambDynamicLights [Unofficial NeoForge]"
 filename = "lambdynamiclights-3.1.4-neo-0+1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
