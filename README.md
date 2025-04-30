@@ -1,4 +1,4 @@
-# Unixmatica
+# Bimbo Mafiacraft
 
 ## How to play
 
