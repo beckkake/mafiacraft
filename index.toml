@@ -715,11 +715,6 @@ hash = "924d0368b24457267242c49948235d3b3e3eb612f684d49fc20b1d1e25daee8f"
 metafile = true
 
 [[files]]
-file = "mods/magnesium-extras.pw.toml"
-hash = "fdd006310581166036f331a95adc9cef032914fece1aabacfbfbc4fa609fde85"
-metafile = true
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
 metafile = true
@@ -777,6 +772,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "b16ee8ff10576cf6ef43fd6a2828463faf96de88e6409f9ee6b3dd31645d282d"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extras.pw.toml"
+hash = "c83dd1d3c2dde6081e6f89246fb3b89fa29734f5329f4cd6d949a5c0da55f35c"
 metafile = true
 
 [[files]]
