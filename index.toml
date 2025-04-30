@@ -546,6 +546,10 @@ hash = "8dfbb6d272199d2991ffba9d7149d65b252ea785d1eef520352f1d3f16e54b62"
 metafile = true
 
 [[files]]
+file = "mods/bwncr-neoforge-1.21.1-3.20.2.jar"
+hash = "44c7299c4a572e7c089b69872c831234a357dead408a219698c35386986755ea"
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "551ae5e114deb4349247c95e552f4092dd5fb2086b22819e1aa1f1403440908d"
 metafile = true
@@ -619,6 +623,10 @@ metafile = true
 file = "mods/enhanced-attack-indicator.pw.toml"
 hash = "0836c337a06c65c97be50179eee86acb1435299cb44a080bfce6175fbd525aeb"
 metafile = true
+
+[[files]]
+file = "mods/entityculling-neoforge-1.7.2-mc1.21.jar"
+hash = "f92da3a21bdc52e16c31ee90f4c40fd47b2f0a15af020e62cb00639f41356fcd"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -729,6 +737,10 @@ metafile = true
 file = "mods/not-enough-animations.pw.toml"
 hash = "139e3bafd7b9cb99e12ec7a572eafeb11f730bbb118041e668c1fd8f30142c81"
 metafile = true
+
+[[files]]
+file = "mods/notenoughanimations-neoforge-1.9.1-mc1.21.jar"
+hash = "32c0974aae6bb569bd79371537b2f2cbd79eb891b5287f35d02c35d87130bebb"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
