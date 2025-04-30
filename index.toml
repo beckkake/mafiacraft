@@ -551,10 +551,6 @@ hash = "8dfbb6d272199d2991ffba9d7149d65b252ea785d1eef520352f1d3f16e54b62"
 metafile = true
 
 [[files]]
-file = "mods/bwncr-neoforge-1.21.1-3.20.2.jar"
-hash = "44c7299c4a572e7c089b69872c831234a357dead408a219698c35386986755ea"
-
-[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "551ae5e114deb4349247c95e552f4092dd5fb2086b22819e1aa1f1403440908d"
 metafile = true
@@ -742,10 +738,6 @@ metafile = true
 file = "mods/not-enough-animations.pw.toml"
 hash = "82a5c30ed91d272ee1895376e0d2cf57504b3d9db4aba6547e19eaa344861ada"
 metafile = true
-
-[[files]]
-file = "mods/notenoughanimations-neoforge-1.9.1-mc1.21.jar"
-hash = "32c0974aae6bb569bd79371537b2f2cbd79eb891b5287f35d02c35d87130bebb"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
