@@ -1,0 +1,13 @@
+name = "SpiffyHUD"
+filename = "spiffyhud_fabric_3.0.0_MC_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "faec753cc1668c2d6ccd14fdaa31e7c750728592"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6453750
+project-id = 483885

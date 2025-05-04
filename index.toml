@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "d9778545b64403309a610324c4f0ca1c993e1130d516fa6ba54279334005d32d"
+hash = "a8bfadcafc06213e2880bc6fc290f23c28fea8c46583e0f65c4d045a85362272"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
+hash = "65200dab9378d27e5e542bdca05ebfc88dbbfc6f347227ea2def432e81691051"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "37d6e7a35e1db2a38cd456304ad28fcf41a968ea79a7fa2b284c6f2cd58b5c9c"
+hash = "aa85cda3f6308d80846732902ab8ef0d6e1cca7964be5b401b704d3c6b0c737c"
 metafile = true
 
 [[files]]
@@ -396,8 +396,8 @@ hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
-file = "mods/konkrete.pw.toml"
-hash = "d6be91dc0a2aca23ee640818d8a8295c85ddb2db6e0413669ecac9600b01eef0"
+file = "mods/konkrete-fabric.pw.toml"
+hash = "2895ab3b454293884e288a125bba2fbf4135475573c345ef919d56f2ad91419c"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "48d24649449a1f541b90fb784c52b5c142834f311b1702675e786f5350789da4"
+hash = "2af509457d13907cf0b48f2f0997750c07e0349f6522b87f8b4bcd1794aa2559"
 metafile = true
 
 [[files]]
@@ -618,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
+file = "mods/spiffyhud.pw.toml"
+hash = "1e033f42e305e4f8587fa2146ff38ca4683dcef2f48d0895ee86f2c0ebc7196f"
 metafile = true
 
 [[files]]
