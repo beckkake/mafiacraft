@@ -621,6 +621,11 @@ hash = "b7db9d8b64fc46a3104773acb30dad6185f82f035567ef3f803255b5733a409d"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
 file = "mods/spiffyhud.pw.toml"
 hash = "0f8c79c80910b76ad159f39d5119d0ad695630cc54adcac7c10ebb3de6475ca4"
 metafile = true
