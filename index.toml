@@ -71,6 +71,11 @@ hash = "545fefbb036d68fb42cd96a077d42461abbf935cb71a096cee9454fba4030339"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "af35b89dd62818ffb579ca1aa2314fb7bec49cbc4eda1d312b1733c50f6be352"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "bee459c3b3739a46717f04675ba175d8a5d26fc00a8683acd4ef5bdfb73a9066"
 metafile = true
@@ -173,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "3f352f4d2bd17152dc5d39010fb409c75f84e8ae9d8fd0d5da1e331b60e01999"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "907f03677673a5196780b33d0503a15387b181bcf6587b99cd47772e7096b067"
 metafile = true
 
 [[files]]
@@ -407,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "a387dcfe8d66bcde451407d5608af67e95720dea13d94a20e13ad5340f6bec6e"
+hash = "48d24649449a1f541b90fb784c52b5c142834f311b1702675e786f5350789da4"
 metafile = true
 
 [[files]]
@@ -448,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "bddfb122f9892e16a6dbf17de7483dda5be5ac80b133363bcce3ea8122fa5d50"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "0a51aa853f7ec0323cabc98e9c6957e35f8e8581f1ee5ce12eb95d0e98665fc2"
 metafile = true
 
 [[files]]
@@ -703,6 +718,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
+metafile = true
+
+[[files]]
+file = "mods/you-shall-not-spawn.pw.toml"
+hash = "f3fb9b0e7de54343acbcfc4b612ff85cf5462c5366067503233a5d9cf4085f24"
 metafile = true
 
 [[files]]
