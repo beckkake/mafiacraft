@@ -656,6 +656,16 @@ hash = "4c9718dfae660a41c445a797c02055b28fe12305a11663c594c0744c74b04e8e"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
+metafile = true
+
+[[files]]
+file = "mods/toms_storage_create_recipes.pw.toml"
+hash = "5c492f300c8415828cce52847cc501c87db2611cfd81cc9f32e1815b9b9a7567"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "7c97460454f6938e7aeac8eee134f4a5f4703fdb01a22bf0b13a489cfafaa079"
 metafile = true
