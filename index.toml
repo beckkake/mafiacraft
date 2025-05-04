@@ -771,11 +771,6 @@ hash = "a837a0028b1e1bbb6c4e5d31bf3cb04d6f6dccae90fc93df46f9a60a8b2c53c1"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-mineshafts.pw.toml"
-hash = "cf708ff146f867df2153b3f27482e80769c7032b10037e4a752d31fbb5668eaf"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
 hash = "8bc20a4cf22bdd4406a64126647cfe3c704e80a3197031c9154032905a276705"
 metafile = true
