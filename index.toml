@@ -506,6 +506,11 @@ hash = "8293786ca23e23e7dd04d60d666f34145a00229a5959f7a1962995654cacdf1f"
 metafile = true
 
 [[files]]
+file = "mods/polymorphic-toms-simple-storag.pw.toml"
+hash = "6835ae0c7f066393ebf8d6a018f3861acac862e0a71224dcf55e808ecb356abb"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "0ba23afebc8a761538a860cf9b21d6f456cfecf4573249dae9c6d7b1f3d43089"
 metafile = true
