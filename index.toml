@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud-fabric.pw.toml"
-hash = "6bdf1a04154fb91860355e14b0e7443b2d8d163894aebd27c573e3fbf8ebd6d1"
+hash = "98aaeb8a99678d5aa338a78eb50e788d3e4bbdedc7f316d7ada6105203813964"
 metafile = true
 
 [[files]]
