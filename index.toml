@@ -631,11 +631,6 @@ hash = "430111f41dfb59de77174dcfe054efba82cec8405e54ffc3c993133a0ce0fa79"
 metafile = true
 
 [[files]]
-file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "65628104692308673398aa33c3ef913b713393dc1209fbd81d670dc2f0a6f719"
-metafile = true
-
-[[files]]
 file = "mods/this-rocks.pw.toml"
 hash = "b6e21ee36358b5d921dc28925a3768ec44ba0c57fd47855164565a8e7ae046e4"
 metafile = true
