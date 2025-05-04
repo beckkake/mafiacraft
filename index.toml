@@ -326,6 +326,11 @@ hash = "e94fe94b0c26dd5b57604f06585b3d69d803733dac6a8e0a509917a8e63e5c8c"
 metafile = true
 
 [[files]]
+file = "mods/gotta-go-fast-fabric.pw.toml"
+hash = "9f968a9fc834ea9c200df1661504f2177695261057fd87e35cbc8a24f18f038b"
+metafile = true
+
+[[files]]
 file = "mods/hamsters.pw.toml"
 hash = "4c6b21bb0c1dcfa5a598c0d452a4e21f4f1c4c821449d1dcb3f305cd2e29cb04"
 metafile = true
