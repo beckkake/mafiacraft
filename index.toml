@@ -511,11 +511,6 @@ hash = "fe23d52712a124f54236002c401bd94249a5d482c6e8b806c5accaf4d1fe08cb"
 metafile = true
 
 [[files]]
-file = "mods/planetsplus.pw.toml"
-hash = "faf9d81c4b3d2d30288512ea18f8c7ae980ec77199ca59dc734e772685b565a6"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8293786ca23e23e7dd04d60d666f34145a00229a5959f7a1962995654cacdf1f"
 metafile = true
