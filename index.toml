@@ -411,6 +411,11 @@ hash = "ef561650c251d4780b9cb948ddcacd4f43abe0dc0e31cb1aa22bac0147fe805e"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
+metafile = true
+
+[[files]]
 file = "mods/longer-chat-history.pw.toml"
 hash = "aab39bc11858cc11a86ddc3d27ecc44d09fd05e1d34642d05b82fe56df08981e"
 metafile = true
@@ -628,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/spiffyhud.pw.toml"
 hash = "0f8c79c80910b76ad159f39d5119d0ad695630cc54adcac7c10ebb3de6475ca4"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
 metafile = true
 
 [[files]]
