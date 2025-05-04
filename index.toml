@@ -421,11 +421,6 @@ hash = "ef561650c251d4780b9cb948ddcacd4f43abe0dc0e31cb1aa22bac0147fe805e"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
-metafile = true
-
-[[files]]
 file = "mods/longer-chat-history.pw.toml"
 hash = "aab39bc11858cc11a86ddc3d27ecc44d09fd05e1d34642d05b82fe56df08981e"
 metafile = true
@@ -768,6 +763,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
 hash = "a837a0028b1e1bbb6c4e5d31bf3cb04d6f6dccae90fc93df46f9a60a8b2c53c1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "cf708ff146f867df2153b3f27482e80769c7032b10037e4a752d31fbb5668eaf"
 metafile = true
 
 [[files]]
