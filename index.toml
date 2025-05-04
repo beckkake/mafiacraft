@@ -26,11 +26,6 @@ hash = "795af5d569d14587c4a11a8e4e1bf842282b736cea0bf145cb1a0d5e44c0eef0"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "85fc3f866a8f0c3b1b208c830d0fb737cc13f9fe3928a4ca5f005fdadfc6d175"
-metafile = true
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "e94fd2f80b6029f19fb0c68d5bbf443a21645af0d668c5a544e3b3f23508fb61"
 metafile = true
@@ -628,11 +623,6 @@ metafile = true
 [[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "cad3bf5e96c9d21e7ab2bd67a6d5d283cad03a6fa1bc2d961b2d7b6fa3b420a6"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "b52762ecbf8d003dcfece87414708d94db789a01d98cae1530464f2906a958f2"
 metafile = true
 
 [[files]]
